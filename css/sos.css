@@ -1,0 +1,35 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.bandeau {
+    margin-bottom: 40px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.logo {
+ margin-top:20px;
+ margin-bottom:20px;
+}
+.phone { font-size: 280%;
+ margin-bottom:5px;
+ margin-top:5px;
+ font-weight: bold;
+}
+.bleusos {
+   color: #004bff;
+}
+.orangesos {
+   padding-top: 20px;
+   color: #ff8f00;
+}
+.h1max {
+        font-size:300%;
+       }
+
+.spacer {
+        margin-bottom:100px;
+  }
